@@ -6,37 +6,5 @@
     "title": "Como preparar seu currículo",
     "description": "Currículos na gringa são diferentes. Aprenda como deixar seu currículo do jeitinho certo.",
     "level": "iniciante"
-  },
-  {
-    "url": "como-funciona-processo-recrutamento",
-    "price": "grátis",
-    "track": "processo",
-    "title": "Como funciona o processo de recrutamento",
-    "description": "Aprenda sobre cada parte do processo de recrutamento. Aprenda também sobre os papéis de cada pessoa envolvida e como maximizar as suas chances.",
-    "level": "iniciante"
-  },
-  {
-    "url": "estruturas-dados-basico",
-    "price": "grátis",
-    "track": "técnico",
-    "title": "Estrutura de dados",
-    "description": "Conceitos básicos para entrevistas técnicas de programação, testes de codificação e entrevistas por telefone.",
-    "level": "iniciante"
-  },
-  {
-    "url": "entrevista-system-design",
-    "price": "grátis",
-    "track": "técnico",
-    "title": "Prepare-se para entrevistas de System Design",
-    "description": "Nem todas as entrevistas são de algoritmo. Aprenda neste curso como se preparar para entrevistas de System Design.",
-    "level": "iniciante"
-  },
-  {
-    "url": "cuidando-corpo-mente",
-    "price": "grátis",
-    "track": "preparação",
-    "title": "Cuidando do corpo e da mente",
-    "description": "Nem todas as entrevistas são de algoritmo. Aprenda neste curso como se preparar para entrevistas de System Design.",
-    "level": "iniciante"
   }
 ]
