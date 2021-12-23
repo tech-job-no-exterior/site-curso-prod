@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Demetrio Guilardi",
+    "photo": "demetrio-guilardi",
+    "description": "Mestre em Engenharia de Software pela Universidade do Quebec e especialista Android certificado.",
+    "profession": {
+      "name": "Engenheiro de Software",
+      "company": "Google, Califórnia - USA",
+      "logo": "google"
+    },
+    "social": {
+      "linkedIn": "demetrioguilardi",
+      "instagram": "deguilardi"
+    },
+    "animateDirection": "fade-right"
+  },
+  {
+    "name": "Bruno Cabral",
+    "photo": "bruno-cabral",
+    "description": "Desenvolvedor analista com experiência em diversas linguagens de programação e em diversos bancos de dados.",
+    "profession": {
+      "name": "Desenvolvedor Analista",
+      "company": "Phoenixx, Quebec - Canadá",
+      "logo": "phoenixx"
+    },
+    "social": {
+      "linkedIn": "bcscabral",
+      "instagram": "noahscabral",
+      "facebook": "rebeca.noah"
+    },
+    "animateDirection": "fade-up"
+  },
+  {
+    "name": "Calebe Reis",
+    "photo": "calebe-reis",
+    "description": "Engenheiro de Redes de Comunicação pela Universidade de Brasília e Engenheiro Elasticsearch certificado.",
+    "profession": {
+      "name": "Consultor Elastic Search",
+      "company": "HP - Remoto - Cingapura",
+      "logo": "hp"
+    },
+    "social": {
+      "linkedIn": "calebereis",
+      "instagram": "calebereis",
+      "facebook": "calebe.reis.94"
+    },
+    "animateDirection": "fade-left"
+  },
+  {
+    "name": "Josué Silva",
+    "photo": "josue-silva",
+    "description": "Pedagogo licenciado em Letras e pós-graduado em Administração Educacional.",
+    "profession": {
+      "name": "Professor",
+      "company": "Cursinhos preparatórios, Brasília",
+      "logo": ""
+    },
+    "animateDirection": "fade-right"
+  },
+  {
+    "name": "Filipe Reis",
+    "photo": "filipe-reis",
+    "description": "Pós-graduado em Engenharia de Sotware pela Universidade Católica de Brasília e especialista em Java.",
+    "profession": {
+      "name": "Desenvolvedor Java",
+      "company": "PicPay, São Paulo, Remoto"
+    },
+    "social": {
+      "linkedIn": "filipesouzareis\"",
+      "instagram": "filipe_sreis"
+    },
+    "animateDirection": "fade-up"
+  },
+  {
+    "name": "Giovanna Akemi",
+    "photo": "giovanna-akemi",
+    "description": "Pós-graduada em gestão de recursos humanos pelo Centro Universitário do Distrito Federal - UDF e em administração de empresas pela Fundação Getúlio Vagas - FGV.",
+    "profession": {
+      "name": "Recursos Humanos",
+      "company": "TIT Consultoria & Serviços, Brasília"
+    },
+    "social": {
+      "linkedIn": "giovannakemi",
+      "instagram": "giovannakemi",
+      "facebook": "giovanna.akemi.75"
+    },
+    "animateDirection": "fade-left"
+  }
+]
