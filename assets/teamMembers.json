@@ -11,8 +11,7 @@
     "social": {
       "linkedIn": "demetrioguilardi",
       "instagram": "deguilardi"
-    },
-    "animateDirection": "fade-right"
+    }
   },
   {
     "name": "Bruno Cabral",
@@ -27,8 +26,7 @@
       "linkedIn": "bcscabral",
       "instagram": "noahscabral",
       "facebook": "rebeca.noah"
-    },
-    "animateDirection": "fade-up"
+    }
   },
   {
     "name": "Calebe Reis",
@@ -43,8 +41,7 @@
       "linkedIn": "calebereis",
       "instagram": "calebereis",
       "facebook": "calebe.reis.94"
-    },
-    "animateDirection": "fade-left"
+    }
   },
   {
     "name": "Josué Silva",
@@ -54,8 +51,7 @@
       "name": "Professor",
       "company": "Cursinhos preparatórios, Brasília",
       "logo": ""
-    },
-    "animateDirection": "fade-right"
+    }
   },
   {
     "name": "Filipe Reis",
@@ -68,8 +64,7 @@
     "social": {
       "linkedIn": "filipesouzareis\"",
       "instagram": "filipe_sreis"
-    },
-    "animateDirection": "fade-up"
+    }
   },
   {
     "name": "Giovanna Akemi",
@@ -83,7 +78,6 @@
       "linkedIn": "giovannakemi",
       "instagram": "giovannakemi",
       "facebook": "giovanna.akemi.75"
-    },
-    "animateDirection": "fade-left"
+    }
   }
 ]
