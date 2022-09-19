@@ -12,7 +12,7 @@
   {
     "isDraft": true,
     "url": "entrevista-comportamental-principios-valores",
-    "price": "grátis",
+    "price": "pago",
     "track": "perfil profissional",
     "title": "Entrevista Comportamental - Princípios e valores",
     "description": "O que são Princípios e Valores e como aplicar esses conceitos para surpreender recrutadores.",
@@ -22,7 +22,7 @@
   {
     "isDraft": true,
     "url": "big-o",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Big-O",
     "description": "O que é, para que serve, tipos principais e como aplicar nas entrevistas técnicas.",
@@ -30,9 +30,9 @@
     "prerequisites": []
   },
   {
-    "isDraft": true,
+    "isDraft": false,
     "url": "estruturas-dados-basico",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Estruturas de Dados Básico",
     "description": "Tipos principais, como identificar, como classificar e aplicação em entrevistas técnicas.",
@@ -40,9 +40,9 @@
     "prerequisites": ["big-o"]
   },
   {
-    "isDraft": true,
+    "isDraft": false,
     "url": "arrays",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Arrays",
     "description": "Conceitos básicos, funcionamento, alocação em memória e operações.",
@@ -52,7 +52,7 @@
   {
     "isDraft": true,
     "url": "listas-encadeadas",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Linked Lists (Listas Encadeadas)",
     "description": "O que é, suas aplicações e como funciona e como calcular o Big O das operações.",
@@ -62,7 +62,7 @@
   {
     "isDraft": true,
     "url": "pilhas",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Stacks (Pilhas)",
     "description": "Diferentes implementações de pilha (ArrayList, LinkedList), saber diferenciar e aplicar.",
@@ -72,7 +72,7 @@
   {
     "isDraft": true,
     "url": "filas",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Queues (Filas)",
     "description": "O que é, conceitos básicos, funcionamento e complexidade (Big-O).",
@@ -82,7 +82,7 @@
   {
     "isDraft": true,
     "url": "arvores",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Trees (Árvores)",
     "description": "Diferentes árvores e aplicação para cada tipo de problema de entrevista.",
@@ -102,7 +102,7 @@
   {
     "isDraft": true,
     "url": "grafos",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Graphs (Gráfos)",
     "description": "O que é, conceitos básicos, funcionamento e aplicação em entrevistas técnicas.",
@@ -112,7 +112,7 @@
   {
     "isDraft": true,
     "url": "grafos-ii",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Graphs (Gráfos) II",
     "description": "Graph traversal, topological sort, single source shortest path, algorítmos famosos e mais.",
@@ -122,7 +122,7 @@
   {
     "isDraft": true,
     "url": "recursividade",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Recursividade",
     "description": "O que é, conceitos básicos, funcionamento e aplicação em entrevistas técnicas.",
@@ -132,7 +132,7 @@
   {
     "isDraft": true,
     "url": "programacao-dinamica",
-    "price": "grátis",
+    "price": "pago",
     "track": "algoritmo | estrutura de dados",
     "title": "Programação Dinâmica",
     "description": "A chave final para solucionar problemas muito complexos, de qualquer entrevista técnica.",
