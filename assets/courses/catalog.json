@@ -20,7 +20,7 @@
     "prerequisites": []
   },
   {
-    "isDraft": true,
+    "isDraft": false,
     "url": "big-o",
     "price": "pago",
     "track": "algoritmo | estrutura de dados",
