@@ -1,10 +1,142 @@
 [
   {
+    "isDraft": false,
     "url": "como-preparar-curriculo",
-    "price": "pago",
-    "track": "processo",
+    "price": "grátis",
+    "track": "perfil profissional",
     "title": "Como preparar seu currículo",
     "description": "Currículos na gringa são diferentes. Aprenda como deixar seu currículo do jeitinho certo.",
-    "level": "iniciante"
+    "level": "iniciante",
+    "prerequisites": []
+  },
+  {
+    "isDraft": true,
+    "url": "entrevista-comportamental-principios-valores",
+    "price": "pago",
+    "track": "perfil profissional",
+    "title": "Entrevista Comportamental - Princípios e valores",
+    "description": "O que são Princípios e Valores e como aplicar esses conceitos para surpreender recrutadores.",
+    "level": "iniciante",
+    "prerequisites": []
+  },
+  {
+    "isDraft": false,
+    "url": "big-o",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Big-O",
+    "description": "O que é, para que serve, tipos principais e como aplicar nas entrevistas técnicas.",
+    "level": "iniciante",
+    "prerequisites": []
+  },
+  {
+    "isDraft": false,
+    "url": "estruturas-dados-basico",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Estruturas de Dados Básico",
+    "description": "Tipos principais, como identificar, como classificar e aplicação em entrevistas técnicas.",
+    "level": "iniciante",
+    "prerequisites": ["big-o"]
+  },
+  {
+    "isDraft": false,
+    "url": "arrays",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Arrays",
+    "description": "Conceitos básicos, funcionamento, alocação em memória e operações.",
+    "level": "iniciante",
+    "prerequisites": ["big-o", "estruturas-dados-basico"]
+  },
+  {
+    "isDraft": true,
+    "url": "listas-encadeadas",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Linked Lists (Listas Encadeadas)",
+    "description": "O que é, suas aplicações e como funciona e como calcular o Big O das operações.",
+    "level": "iniciante",
+    "prerequisites": ["big-o", "estruturas-dados-basico"]
+  },
+  {
+    "isDraft": true,
+    "url": "pilhas",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Stacks (Pilhas)",
+    "description": "Diferentes implementações de pilha (ArrayList, LinkedList), saber diferenciar e aplicar.",
+    "level": "iniciante",
+    "prerequisites": ["big-o", "estruturas-dados-basico", "linked-list"]
+  },
+  {
+    "isDraft": true,
+    "url": "filas",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Queues (Filas)",
+    "description": "O que é, conceitos básicos, funcionamento e complexidade (Big-O).",
+    "level": "iniciante",
+    "prerequisites": ["big-o", "estruturas-dados-basico", "linked-list"]
+  },
+  {
+    "isDraft": true,
+    "url": "arvores",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Trees (Árvores)",
+    "description": "Diferentes árvores e aplicação para cada tipo de problema de entrevista.",
+    "level": "intermediário",
+    "prerequisites": ["big-o", "estruturas-dados-basico"]
+  },
+  {
+    "isDraft": true,
+    "url": "algo-busca-ordenacao",
+    "price": "grátis",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Algoritmos de busca e ordenação",
+    "description": "Busca binária, bubble sort, selection sort, merge sort, quick sort e suas aplicações.",
+    "level": "intermediário",
+    "prerequisites": ["big-o", "estruturas-dados-basico", "tree"]
+  },
+  {
+    "isDraft": true,
+    "url": "grafos",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Graphs (Gráfos)",
+    "description": "O que é, conceitos básicos, funcionamento e aplicação em entrevistas técnicas.",
+    "level": "intermediário",
+    "prerequisites": ["big-o", "estruturas-dados-basico", "tree", "search-order-algo"]
+  },
+  {
+    "isDraft": true,
+    "url": "grafos-ii",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Graphs (Gráfos) II",
+    "description": "Graph traversal, topological sort, single source shortest path, algorítmos famosos e mais.",
+    "level": "avançado",
+    "prerequisites": ["big-o", "estruturas-dados-basico", "tree", "search-order-algo"]
+  },
+  {
+    "isDraft": true,
+    "url": "recursividade",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Recursividade",
+    "description": "O que é, conceitos básicos, funcionamento e aplicação em entrevistas técnicas.",
+    "level": "avançado",
+    "prerequisites": ["big-o", "estruturas-dados-basico", "tree", "search-order-algo", "graphs"]
+  },
+  {
+    "isDraft": true,
+    "url": "programacao-dinamica",
+    "price": "pago",
+    "track": "algoritmo | estrutura de dados",
+    "title": "Programação Dinâmica",
+    "description": "A chave final para solucionar problemas muito complexos, de qualquer entrevista técnica.",
+    "level": "avançado",
+    "prerequisites": ["big-o", "estruturas-dados-basico", "tree", "search-order-algo", "graphs", "recursiveness"]
   }
 ]
