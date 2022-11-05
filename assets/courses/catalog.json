@@ -60,7 +60,7 @@
     "prerequisites": ["big-o", "estruturas-dados-basico"]
   },
   {
-    "isDraft": true,
+    "isDraft": false,
     "url": "pilhas",
     "price": "pago",
     "track": "algoritmo | estrutura de dados",
